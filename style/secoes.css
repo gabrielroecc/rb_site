@@ -1,0 +1,54 @@
+.conteiner{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+main h1{
+    color: #005B5A;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-top: 180px;
+}
+main h2{
+    color: #00A9A8;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+main img{
+    width: 1280px;
+    height: 500px;
+
+    border-radius: 8px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+    margin-top: 67px;
+    margin-bottom: 88px;
+}
+main p{
+    color: #00A9A8;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+main span{
+    color: #00A9A8;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+/* main > a{
+
+}
+
+img p a */
